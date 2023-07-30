@@ -7,7 +7,7 @@ import { ContatoComponent } from './componentes/contato/contato.component';
 const routes: Routes = [
     {path:"home", component: NavegadorComponent},
     {path:"quemsomos", component: QuemSomosComponent},
-    {path:"contato", component: ContatoComponent},
+    {path:"contato", component: ContatoComponent}
 ];
 
 @NgModule({
